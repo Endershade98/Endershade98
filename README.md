@@ -4,10 +4,10 @@
 
 ## 🔧 Technological Stack
 
-- **Languages**: Python, HTML, CSS, JavaScript
+- **Languages**: Python, HTML, CSS, JavaScript, SQL
 - **Frameworks**: Django, Flask, FastAPI
 - **Tools & Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn, Git, VSCode
-- **Currently learning**: Node.js, Docker
+- **Currently learning**: Node.js, Docker, Redis, Linux
 
 ## 🚀 Projects
 
