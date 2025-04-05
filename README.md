@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nunzio
 
-🎓 Junior Web Developer with a background in **Python** and **Machine Learning**, recently completed an intensive training program focused on backend development and data-driven applications.
+🎓 Junior Web Developer with a background in **Python** and **Machine Learning**, I'm currently finishing an intensive training program focused on Python and Machine Learning with hands-on experience in ML and data-driven **team projects**.
 
 ## 🔧 Technological Stack
 
