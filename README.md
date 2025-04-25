@@ -34,8 +34,8 @@ The main activities of this project include:
 
 ## Let's connect
 
-- [LinkedIn](www.linkedin.com/in/nunzio-de-cicco)  
-- [Mail](decicconunzio@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/nunzio-de-cicco)  
+- [Mail](mailto:decicconunzio@gmail.com)
 
 ---
 
