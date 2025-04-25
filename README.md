@@ -17,18 +17,18 @@ Here are a few projects I've worked on during my training:
 
 - [MySQL Database Manager](https://github.com/GiovanniP9/Gestionale_Database.git): A simple command-line tool to connect to a MySQL server, manage databases, tables, and data — written in Python. Designed with a modular architecture that includes abstraction, concrete classes, and clean error handling.
 Features:
-- Connect to a MySQL server
-- Create and select databases
-- Create custom tables
-- Add and remove columns
-- Delete tables
-- Insert and update data
+  - Connect to a MySQL server
+  - Create and select databases
+  - Create custom tables
+  - Add and remove columns
+  - Delete tables
+  - Insert and update data
 
 - [Spotify Analysis Project](https://github.com/GiovanniP9/Progetto_Analisi_Spotify): This project is an in-depth analysis of Spotify music data, exploring the daily charts from 2018 up to October 2020. Using Python and libraries such as pandas, matplotlib, and seaborn, the goal is to uncover musical trends, analyze the performance of songs and artists, and visualize changes over time.
 The main activities of this project include:
-- Statistical analysis of the daily charts.
-- Visualization of musical trends over time.
-- Exploration of meaningful insights regarding the performance of the most streamed songs.
+  - Statistical analysis of the daily charts.
+  - Visualization of musical trends over time.
+  - Exploration of meaningful insights regarding the performance of the most streamed songs.
  
 > You can find more in the pinned repositories below!
 
