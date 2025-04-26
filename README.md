@@ -25,10 +25,12 @@ Features:
   - Insert and update data
 
 - [Spotify Analysis Project](https://github.com/GiovanniP9/Progetto_Analisi_Spotify): This project is an in-depth analysis of Spotify music data, exploring the daily charts from 2018 up to October 2020. Using Python and libraries such as pandas, matplotlib, and seaborn, the goal is to uncover musical trends, analyze the performance of songs and artists, and visualize changes over time.
-The main activities of this project include:
-  - Statistical analysis of the daily charts.
-  - Visualization of musical trends over time.
-  - Exploration of meaningful insights regarding the performance of the most streamed songs.
+Features:
+  - Statistical Analysis of Daily Rankings
+  - Exploration of the performance of the most listened-to songs over time
+  - Interactive visualization to analyze music trends
+  - Study of the most popular music genres during the period
+  - Performance analysis by artist and album
  
 > You can find more in the pinned repositories below!
 
