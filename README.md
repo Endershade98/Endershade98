@@ -1,6 +1,6 @@
 # **Hi, I'm Nunzio**
 
-Junior Web Developer with a background in **Python** and **Machine Learning**, I'm currently finishing an intensive training program focused on Python and Machine Learning with hands-on experience in ML and data-driven **projects**.
+Junior Web Developer with a background in **Python** and **Machine Learning**, I'm currently finishing an intensive training program focused on Python and Machine Learning with hands-on experience in ML and data-driven **projects**. You can find more about this intensive course on the following link: [Python & Machine Learning Course Repo](https://github.com/Endershade98/Nunzio_De_Cicco_Python_Course_Repo.git).
 
 ## **Technological Stack**
 
