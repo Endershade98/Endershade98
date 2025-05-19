@@ -18,8 +18,9 @@ Here are a few projects I've worked on during my training:
 - [MySQL Database Manager](https://github.com/GiovanniP9/Gestionale_Database.git) (team project): A simple command-line tool to connect to a MySQL server, manage databases, tables, and data — written in Python. Designed with a modular architecture that includes abstraction, concrete classes, and clean error handling.
 
 - [Spotify Data Analysis](https://github.com/GiovanniP9/Progetto_Analisi_Spotify) (team project): This project is an in-depth analysis of Spotify music data, exploring the daily charts from 2018 up to October 2020. Using Python and libraries such as pandas, matplotlib, and seaborn, the goal is to uncover musical trends, analyze the performance of songs and artists, and visualize changes over time.
-Features:
- 
+
+- [BeFirstKC](https://github.com/GiovanniP9/BeFirstKC---GUI-for-Kaggle-Dataset.git) (team project): This project was born as a learning exercise for a junior Python developer with a growing interest in Data Analysis and Machine Learning. The goal is to combine data analysis with an interactive graphical interface built with PyQt5, exploring fundamental concepts such as: - Data manipulation with Python, - Presentation of interactive visual elements, - Management of animations and visual feedback for the user.
+  
 > You can find more in the pinned repositories below!
 
 ## **Let's connect**
