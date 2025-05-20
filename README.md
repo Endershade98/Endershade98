@@ -5,10 +5,11 @@ Junior Web Developer with a background in **Python** and **Machine Learning**, I
 ## **Technological Stack**
 
 - **Languages**: Python, JavaScript
-- **Frameworks**: Django, FastAPI
-- **Database**: MySQL, SQLite
-- **Tools & Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Git, VSCode
-- **Currently learning**: Node.js, Docker (basics), Redis, Linux, PostgreSQL
+- **Frameworks**: Django, FastAPI, Node.js (basics)
+- **Database**: MySQL, SQLite, Redis
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Tools**: Docker (basics), Linux (basics), Git, VSCode
+- **Currently Learning**: OAuth, Dependency Inversion, Dependency Injection, Public Key Infrastructure (PKI), Arduino and RaspberryPI
 
 ## **Projects**
 
@@ -19,7 +20,7 @@ Here are a few projects I've worked on during my training:
 
 - [Spotify Data Analysis](https://github.com/GiovanniP9/Progetto_Analisi_Spotify) (team project): This project is an in-depth analysis of Spotify music data, exploring the daily charts from 2018 up to October 2020. Using Python and libraries such as pandas, matplotlib, and seaborn, the goal is to uncover musical trends, analyze the performance of songs and artists, and visualize changes over time.
 
-- [BeFirstKC](https://github.com/GiovanniP9/BeFirstKC---GUI-for-Kaggle-Dataset.git) (team project): This project was born as a learning exercise for a junior Python developer with a growing interest in Data Analysis and Machine Learning. The goal is to combine data analysis with an interactive graphical interface built with PyQt5, exploring fundamental concepts such as: - Data manipulation with Python, - Presentation of interactive visual elements, - Management of animations and visual feedback for the user.
+- [BeFirstKC](https://github.com/GiovanniP9/BeFirstKC---GUI-for-Kaggle-Dataset.git) (team project): This project was born as a learning exercise for a junior Python developer with a growing interest in Data Analysis and Machine Learning. The goal is to combine data analysis with an interactive graphical interface built with PyQt5, exploring fundamental concepts such as: data manipulation with Python, presentation of interactive visual elements, management of animations and visual feedback for the user.
   
 > You can find more in the pinned repositories below!
 
