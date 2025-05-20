@@ -4,8 +4,8 @@ Junior Web Developer with a background in **Python** and **Machine Learning**, I
 
 ## **Technological Stack**
 
-- **Languages**: Python, JavaScript, HTML/CSS (basics)
-- **Frameworks**: Django, Flask, FastAPI
+- **Languages**: Python, JavaScript
+- **Frameworks**: Django, FastAPI
 - **Database**: MySQL, SQLite
 - **Tools & Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Git, VSCode
 - **Currently learning**: Node.js, Docker (basics), Redis, Linux, PostgreSQL
