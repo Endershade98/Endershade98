@@ -1,6 +1,8 @@
-# **Hi, I'm Nunzio**
+# **Hello there, I'm Nunzio**
 
-Junior Web Developer with a background in **Python** and **Machine Learning**, I finished recently an intensive training program focused on Python and Machine Learning with hands-on experience in ML and data-driven **projects**. You can find more about this intensive course on the following link: [Python & Machine Learning Course Repo](https://github.com/Endershade98/Nunzio_De_Cicco_Python_Course_Repo.git).
+- I am a **Computer Networking** enthusiast, so I decided to learn web **software development** starting with **Django**, then using **FastAPI**, **Node** and **Express**. Only recently I started studying authentication methods with **OAuth** (JWT), Dependency Inversion, Dependency Injection, **Public Key Infrastructure** (PKI), because I'm curious about **security** of communication systems.
+- I have always been a curious student who loves to learn and test myself in adopting new technologies, because I think that studying can prove to be a good strategic asset in which to invest on a long term, following the **life-long-term** principle.
+- I finished recently an intensive training program focused on **Python** and **Machine Learning** with hands-on experience in ML and data-driven **projects**. You can find more about this intensive course on the following link: [Python & Machine Learning Course Repo](https://github.com/Endershade98/Nunzio_De_Cicco_Python_Course_Repo.git).
 
 ## **Technological Stack**
 
