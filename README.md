@@ -5,11 +5,11 @@ Junior Web Developer with a background in **Python** and **Machine Learning**, I
 ## **Technological Stack**
 
 - **Languages**: Python, JavaScript
-- **Frameworks**: Django, FastAPI, Node.js (basics)
-- **Database**: MySQL, SQLite, Redis
+- **Frameworks**: Django, FastAPI, Node.js and Express.js (basics)
+- **Database**: MySQL, SQLite, Redis (basics)
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Tools**: Docker (basics), Linux (basics), Git, VSCode
-- **Currently Learning**: OAuth, Dependency Inversion, Dependency Injection, Public Key Infrastructure (PKI), Arduino and RaspberryPI
+- **Currently Learning**: OAuth (JWT), Dependency Inversion, Dependency Injection, Public Key Infrastructure (PKI), C/C++ programming languages for Arduino and Raspberry
 
 ## **Projects**
 
