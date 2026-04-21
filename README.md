@@ -1,36 +1,59 @@
 # **Hello there, I'm Nunzio**
+Backend Developer focused on solving **real-world system problems**.
 
-- I am a **Computer Networking** enthusiast, so I decided to learn web **software development** starting with **Django**, then using **FastAPI**, **Node** and **Express**. Only recently I started studying authentication methods with **OAuth** (JWT), Dependency Inversion, Dependency Injection, **Public Key Infrastructure** (PKI), because I'm curious about **security** of communication systems.
-- I have always been a curious student who loves to learn and test myself in adopting new technologies, because I think that studying can prove to be a good strategic asset in which to invest on a long term, following the **life-long-term** principle.
-- I finished recently an intensive training program focused on **Python** and **Machine Learning** with hands-on experience in ML and data-driven **projects**. You can find more about this intensive course on the following link: [Python & Machine Learning Course Repo](https://github.com/Endershade98/Nunzio_De_Cicco_Python_Course_Repo.git).
+I design and build backend systems that need to be:
+- reliable under failure
+- scalable under load
+- consistent across multiple services
 
-## **Technological Stack**
+---
 
-- **Languages**: Python, JavaScript
-- **Frameworks**: Django, FastAPI, Node.js and Express.js (basics)
-- **Database**: MySQL, SQLite, Redis (basics)
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Tools**: Docker (basics), Linux (basics), Git, VSCode
-- **Currently Learning**: OAuth (JWT), Dependency Inversion, Dependency Injection, Public Key Infrastructure (PKI), C/C++ programming languages for Arduino and Raspberry
+## Problems I Work On
 
-## **Projects**
+- Preventing **duplicate or inconsistent events** in async systems  
+- Designing **idempotent workflows** for distributed services  
+- Synchronizing data between **internal systems and external APIs (CRM)**  
+- Handling **real-time data streaming** from IoT devices  
+- Managing **state-based workflows** (user onboarding, funnels, automation)  
+- Ensuring **fault tolerance** with retries, timeouts and background jobs  
 
-Here are a few projects I've worked on during my training:
-- [Donat Shop Manager](https://github.com/GiovanniP9/Donut-Shop-Manager---Gestionale-Python.git) (team project): Donut Shop Manager is a management system written in Python that simulates a login and user registration system, inventory management, and sales operations for a donut shop. This project is a great practical example of object-oriented programming (OOP), as well as the use of decorators, regex, logging, and data structures.
+---
 
-- [MySQL Database Manager](https://github.com/GiovanniP9/Gestionale_Database.git) (team project): A simple command-line tool to connect to a MySQL server, manage databases, tables, and data — written in Python. Designed with a modular architecture that includes abstraction, concrete classes, and clean error handling.
+## How I Approach Them
 
-- [Spotify Data Analysis](https://github.com/GiovanniP9/Progetto_Analisi_Spotify) (team project): This project is an in-depth analysis of Spotify music data, exploring the daily charts from 2018 up to October 2020. Using Python and libraries such as pandas, matplotlib, and seaborn, the goal is to uncover musical trends, analyze the performance of songs and artists, and visualize changes over time.
+- Event-driven architectures (Redis Pub/Sub, messaging patterns)  
+- Async processing (Celery, background workers)  
+- Real-time communication (WebSocket, MQTT)  
+- Transaction management and data consistency  
+- Layered architecture and separation of concerns  
 
-- [BeFirstKC](https://github.com/GiovanniP9/BeFirstKC---GUI-for-Kaggle-Dataset.git) (team project): This project was born as a learning exercise for a junior Python developer with a growing interest in Data Analysis and Machine Learning. The goal is to combine data analysis with an interactive graphical interface built with PyQt5, exploring fundamental concepts such as: data manipulation with Python, presentation of interactive visual elements, management of animations and visual feedback for the user.
-  
-> You can find more in the pinned repositories below!
+---
 
-## **Let's connect**
+## What I've Built
+
+- Multi-channel notification systems (push, email, WebSocket, SMS)  
+- Real-time energy data platform (IoT + streaming pipeline)  
+- CRM integrations with bidirectional synchronization and webhooks  
+- Automated user workflows with state machines and async tasks  
+
+---
+
+## Tech Stack
+
+**Backend**: Django, FastAPI, Node  
+**Async & Messaging**: Celery, Redis, MQTT  
+**Real-time**: WebSocket (Django Channels)  
+**DB**: PostgreSQL, MySQL
+**Infra**: Docker  
+**Architecture**: Microservices, Event-driven, Layered  
+
+---
+
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/nunzio-de-cicco)  
 - [Mail](mailto:decicconunzio@gmail.com)
 
 ---
 
-_Always open to learning and building cool things with code._
+> I’m interested in backend systems where correctness, reliability and scalability actually matter.
